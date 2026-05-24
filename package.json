@@ -1,5 +1,5 @@
 {
-  "name": "tmp-app",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -43,19 +43,5 @@
     "eslint-config-next": "16.2.6",
     "tailwindcss": "^4",
     "typescript": "^5"
-  },
-  "description": "> **Disclaimer:** This website was not hand-coded by me — and that's entirely intentional.",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/axtheon/portfolio.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "module",
-  "bugs": {
-    "url": "https://github.com/axtheon/portfolio/issues"
-  },
-  "homepage": "https://github.com/axtheon/portfolio#readme"
+  }
 }
