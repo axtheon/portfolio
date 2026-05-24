@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   title: "Abdullah Khan | AI/ML Engineer",
   description: "Personal portfolio of Abdullah Khan - Aspiring AI/ML Engineer and DSA Specialist from Lahore, Pakistan.",
   icons: {
-    icon: "/AbdullahKhan_Portfolio/favicon.ico",
+    icon: "/portfolio/favicon.ico",
   },
 };
 

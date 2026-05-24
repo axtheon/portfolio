@@ -38,7 +38,7 @@ const projects = [
     title: "Personal Portfolio",
     description: "A high-performance, visually stunning portfolio website built with Next.js, Three.js, and Framer Motion. Features custom shaders, glassmorphism, and responsive design.",
     tech: ["Next.js", "Three.js", "Tailwind CSS", "Framer Motion"],
-    github: "https://github.com/axtheon/AbdullahKhan_Portfolio",
+    github: "https://github.com/axtheon/portfolio",
     status: "Completed",
   },
 ]

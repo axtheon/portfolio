@@ -102,7 +102,7 @@ export default function Hero() {
             {/* Profile Image Wrapper */}
             <div className="absolute inset-0 rounded-full overflow-hidden border-4 border-cyber-dark shadow-[0_0_50px_rgba(0,212,170,0.2)]">
               <Image
-                src="/AbdullahKhan_Portfolio/pic.png"
+                src="/portfolio/pic.png"
                 alt="Abdullah Khan"
                 fill
                 className="object-cover"
